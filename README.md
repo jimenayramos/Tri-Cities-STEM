@@ -1,5 +1,5 @@
 # Tri-Cities-STEM
-![stem]C:\Users\jimen\OneDrive\Pictures\Screenshots\STEM.png
+![stem]STEM.png
 
 ## Overview
 This project presents a data-driven analysis of socio-economic factors, K-12 education performance metrics, and local labor market trends relevant to the Kiona-Benton City School District. The goal is to inform community stakeholders, educators, and policymakers about current challenges, opportunities, and the future demand for occupations in the Tri-Cities metropolitan area.
