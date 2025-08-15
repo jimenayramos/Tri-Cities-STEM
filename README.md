@@ -29,6 +29,7 @@ The analysis was presented at the Tri-Cities STEM Career Connect Southeast on Ju
 - Presentation: Microsoft PowerPoint
 
 ## Key Insights
+- Preschool Enrollment: Share of 3- & 4-year-olds in preschool increased from 24.5% (2014–2018) to 44.2% (2019–2023) in Benton City, but the change is not statistically significant compared to the Tri-Cities average.
 - Median Age: Benton City is ~7 years younger than the Tri-Cities average.
 - Income & Wages: Median household income similar to the metro average, but median earnings are lower.
 - Poverty: Slightly higher rates in Benton City (~1 in 7 residents).
